@@ -2,8 +2,6 @@
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using System.Linq;
-//using System.Diagnostics;
-
 namespace numbertowords
 {
     class Program
@@ -16,7 +14,7 @@ namespace numbertowords
         "seventy", "eighty", "ninety"};
 
         public static List<string> higher=new List<string>{"thousand","million","billion",
-        "trillion", "quadrillion"};
+        "trillion", "quadrillion","pentillion"};
 
         static String tonum(double n) //converts double to words
         {
@@ -90,9 +88,6 @@ namespace numbertowords
         
         public static void Main(String[] args)
         {
-            //string str=Console.ReadLine();
-            //var watch = new Stopwatch();
-            //watch.Start();
             string str=Console.ReadLine();
             
             string words="";
@@ -114,10 +109,6 @@ namespace numbertowords
                 words=words.Split(' ').ToArray().Last();
             
             Console.WriteLine(outform(words));
-
-            //watch.Stop();
-            //Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
-            
         }
     }
 }

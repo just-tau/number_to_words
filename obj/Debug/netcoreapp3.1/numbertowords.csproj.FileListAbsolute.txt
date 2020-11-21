@@ -11,3 +11,16 @@ D:\Softwares\c#\numbertowords\obj\Debug\netcoreapp3.1\numbertowords.AssemblyInfo
 D:\Softwares\c#\numbertowords\obj\Debug\netcoreapp3.1\numbertowords.dll
 D:\Softwares\c#\numbertowords\obj\Debug\netcoreapp3.1\numbertowords.pdb
 D:\Softwares\c#\numbertowords\obj\Debug\netcoreapp3.1\numbertowords.genruntimeconfig.cache
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.exe
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.deps.json
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.runtimeconfig.json
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.runtimeconfig.dev.json
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.dll
+D:\Softwares\c#\number_to_words\bin\Debug\netcoreapp3.1\numbertowords.pdb
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.csprojAssemblyReference.cache
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.csproj.CoreCompileInputs.cache
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.AssemblyInfoInputs.cache
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.AssemblyInfo.cs
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.dll
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.pdb
+D:\Softwares\c#\number_to_words\obj\Debug\netcoreapp3.1\numbertowords.genruntimeconfig.cache

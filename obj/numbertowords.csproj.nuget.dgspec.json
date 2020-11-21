@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Softwares\\c#\\numbertowords\\numbertowords.csproj": {}
+    "D:\\Softwares\\c#\\number_to_words\\numbertowords.csproj": {}
   },
   "projects": {
-    "D:\\Softwares\\c#\\numbertowords\\numbertowords.csproj": {
+    "D:\\Softwares\\c#\\number_to_words\\numbertowords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softwares\\c#\\numbertowords\\numbertowords.csproj",
+        "projectUniqueName": "D:\\Softwares\\c#\\number_to_words\\numbertowords.csproj",
         "projectName": "numbertowords",
-        "projectPath": "D:\\Softwares\\c#\\numbertowords\\numbertowords.csproj",
+        "projectPath": "D:\\Softwares\\c#\\number_to_words\\numbertowords.csproj",
         "packagesPath": "C:\\Users\\jeswi\\.nuget\\packages\\",
-        "outputPath": "D:\\Softwares\\c#\\numbertowords\\obj\\",
+        "outputPath": "D:\\Softwares\\c#\\number_to_words\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeswi\\AppData\\Roaming\\NuGet\\NuGet.Config"
